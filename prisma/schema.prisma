@@ -38,4 +38,3 @@ model VoteK3M {
   pil_3 String?
 }
 
-
